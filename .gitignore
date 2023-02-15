@@ -1,0 +1,11 @@
+.DS_Store
+Chart.yaml
+values.yaml
+canary.yaml
+metricTemplate.yaml
+*configmap*.yaml
+*secrets*.envrc
+nginx.json*
+request-handling-performance.json*
+.idea/
+
